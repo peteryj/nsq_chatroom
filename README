@@ -1,0 +1,2 @@
+Init version. 
+This application is my first program under Go. It is based on nsq, which is a message distribution system developed by Go. It supports to explicitly bind to one nsqd and communicate with each other through the same 'room', which is corresponding to a topic in nsq. TODO:    Add supporting of nsqlookupd, so that we could connect to more nsqd automatically.
